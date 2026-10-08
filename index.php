@@ -66,7 +66,7 @@
 								
 								<li class="first-slide" data-transition="fade" data-slotamount="10" data-masterspeed="300">
 									<img src="assets/images/04-slide.jpg" data-fullwidthcentering="on" alt="slide">
-									<div class="tp-caption first-line lfr tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-speed="2500" data-start="500" data-easing="Power4.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><font color="red" size="7">Будівництво та реконструкція <br>складів рідких <br>минеральних добрив</br></font><div class="slider-button"><a href="construction_fertilizer_storages.php"><font color="red">Подивитися</font></a></div></div>
+									<div class="tp-caption first-line lfr tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-speed="2500" data-start="500" data-easing="Power4.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><font color="red" size="7">Будівництво та реконструкція <br>складів рідких <br>мінеральних добрив</br></font><div class="slider-button"><a href="construction_fertilizer_storages.php"><font color="red">Подивитися</font></a></div></div>
 								</li>
 							
 								

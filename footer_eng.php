@@ -5,7 +5,7 @@
 								<div class="contact-info">	
 									<hr />
 									<p>LTD "CENTRREZERVUARSERVIS"</p>									
-									<p><span>Telephone:</span> +380504539375; <span>Email:</span><a href="mailto:uatank@ukr.net">uatank@ukr.net</p>
+									<p><span>Telephone:</span> +380504539375; <span>Email:</span><a href="mailto:uatank@ukr.net">uatank@ukr.net</a></p>
 								</div> 
 							<!--</div>-->
 						</div>
@@ -35,7 +35,7 @@
 							<p>LTD "CENTRREZERVUARSERVIS"</p>
 							<ul class="contact-list">
 										<li><span>Telephone:</span> +380504539375</li>
-										<li><span>Adress:</span><p>Ukraine, 51600, Dnepr area., <br>c. Verkhnedneprovsk, Yabluneva str, 55а</p></li>
+										<li><span>Address:</span><p>Ukraine, 51600, Dnepr area., <br>c. Verkhnedneprovsk, Yabluneva str, 55а</p></li>
 										<li><span>Email:</span><a href="mailto:uatank@ukr.net">uatank@ukr.net</a></li>
 																				
 							</ul>
