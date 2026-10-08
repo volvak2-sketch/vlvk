@@ -9,7 +9,7 @@
 				<header class="site-header">
 			
 							<div class="logo">						
-								<a class="main-header-logo" href="index.php"></a>
+								<a class="main-header-logo" href="index_rus.php"></a>
 							</div>
 				
 				  
