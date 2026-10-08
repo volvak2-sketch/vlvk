@@ -40,34 +40,34 @@
 								
 								<li class="first-slide" data-transition="fade" data-slotamount="10" data-masterspeed="300">
 									<img src="assets/images/01-slide.jpg" data-fullwidthcentering="on" alt="slide">
-									<div class="tp-caption first-line lfr tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-speed="2500" data-start="500" data-easing="Power4.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><font color="red" size="7">Изготовление резервуаров</font><div class="slider-button"><a href="production_of_tanks.php"><font color="red">Посмотреть</font></a></div></div>
+									<div class="tp-caption first-line lfr tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-speed="2500" data-start="500" data-easing="Power4.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><font color="red" size="7">Изготовление резервуаров</font><div class="slider-button"><a href="production_of_tanks_rus.php"><font color="red">Посмотреть</font></a></div></div>
 								</li>
 								
 								<li class="first-slide" data-transition="fade" data-slotamount="10" data-masterspeed="300">
 									<img src="assets/images/05-slide.jpg" data-fullwidthcentering="on" alt="slide">
 									<div class="tp-caption first-line lfr tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-speed="2500" data-start="500" data-easing="Power4.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0">
-									<font color="red" size="7">Монтаж резервуаров</font> <div class="slider-button"><a href="tankinstallation.php"><font color="red">Посмотреть</font></a></div></div>
+									<font color="red" size="7">Монтаж резервуаров</font> <div class="slider-button"><a href="tankinstallation_rus.php"><font color="red">Посмотреть</font></a></div></div>
 								</li>
 								
 								<li class="first-slide" data-transition="fade" data-slotamount="10" data-masterspeed="300">
 									<img src="assets/images/06-slide.jpg" data-fullwidthcentering="on" alt="slide">
-									<div class="tp-caption first-line lfr tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-speed="3000" data-start="500" data-easing="Power4.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><font color="red" size="7">Изготовление <br>горизонтальных резервуаров </font><div class="slider-button"><a href="horizontal_tank.php"><font color="red">Посмотреть </font></a></div></div>
+									<div class="tp-caption first-line lfr tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-speed="3000" data-start="500" data-easing="Power4.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><font color="red" size="7">Изготовление <br>горизонтальных резервуаров </font><div class="slider-button"><a href="horizontal_tank_rus.php"><font color="red">Посмотреть </font></a></div></div>
 								</li>
 								
 								<li class="first-slide" data-transition="fade" data-slotamount="10" data-masterspeed="300">
 									<img src="assets/images/03-slide.jpg" data-fullwidthcentering="on" alt="slide">
-									<div class="tp-caption first-line lfr tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-speed="2500" data-start="500" data-easing="Power4.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><font color="red" size="7">Покраска <br>антикоррозионное покрытие</br></font><div class="slider-button"><a href="painting.php"><font color="red">Посмотреть</font></a></div></div>
+									<div class="tp-caption first-line lfr tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-speed="2500" data-start="500" data-easing="Power4.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><font color="red" size="7">Покраска <br>антикоррозионное покрытие</br></font><div class="slider-button"><a href="painting_rus.php"><font color="red">Посмотреть</font></a></div></div>
 								</li>
 								
 								<li class="first-slide" data-transition="fade" data-slotamount="10" data-masterspeed="300">
 									<img src="assets/images/04-slide.jpg" data-fullwidthcentering="on" alt="slide">
-									<div class="tp-caption first-line lfr tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-speed="2500" data-start="500" data-easing="Power4.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><font color="red" size="7">Строительство и реконструкция <br>складов жидких <br>минеральных удобрений</br></font><div class="slider-button"><a href="construction_fertilizer_storages.php"><font color="red">Посмотреть</font></a></div></div>
+									<div class="tp-caption first-line lfr tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-speed="2500" data-start="500" data-easing="Power4.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><font color="red" size="7">Строительство и реконструкция <br>складов жидких <br>минеральных удобрений</br></font><div class="slider-button"><a href="construction_fertilizer_storages_rus.php"><font color="red">Посмотреть</font></a></div></div>
 								</li>
 							
 								
 								<li class="first-slide" data-transition="fade" data-slotamount="10" data-masterspeed="300">
 									<img src="assets/images/02-slide.jpg" data-fullwidthcentering="on" alt="slide">
-									<div class="tp-caption first-line lfr tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-speed="2500" data-start="500" data-easing="Power4.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><font color="red" size="7">Обследование резервуаров </font><div class="slider-button"><a href="inspection.php"><font color="red">Посмотреть</font></a></div></div>
+									<div class="tp-caption first-line lfr tp-resizeme start" data-x="center" data-hoffset="0" data-y="center" data-speed="2500" data-start="500" data-easing="Power4.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0" data-endelementdelay="0"><font color="red" size="7">Обследование резервуаров </font><div class="slider-button"><a href="inspection_rus.php"><font color="red">Посмотреть</font></a></div></div>
 								</li>
 								
 							</ul>

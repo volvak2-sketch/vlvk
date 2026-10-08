@@ -5,7 +5,7 @@
 								<div class="contact-info">	
 									<hr />
 									<p>ТОВ "ЦЕНТРРЕЗЕРВУАРСЕРВІС"</p>									
-									<p><span>Телефон:</span> +380504539375; <span>Email:</span><a href="mailto:uatank@ukr.net">uatank@ukr.net</p>
+									<p><span>Телефон:</span> +380504539375; <span>Email:</span><a href="mailto:uatank@ukr.net"</a>uatank@ukr.net</p>
 								</div> 
 							<!--</div>-->
 						</div>
