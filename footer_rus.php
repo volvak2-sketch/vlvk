@@ -26,7 +26,7 @@
 									<li><a href="about_rus.php">О компании</a></li>
 									<li><a href="objects_rus.php">Наши объекты</a></li>
 									<li><a href="services_rus.php">Услуги</a></li>
-									<li><a href="info.php_rus">Инфо</a> </li>
+									<li><a href="info_rus.php">Инфо</a> </li>
 									<li><a href="contacts_rus.php">Контакты</a></li>
 						</ul>
 					</nav>
