@@ -52,7 +52,7 @@
 											<div class="blog-item">
 												<div class="text-content">
 													<h4>Construction and reconstruction of storagess of liquid mineral fertilizers</h4>	<br> 	
-													<p>The main objective of farmers is to get high yields of crops. The question arises: How can I provide? Unequivocally to answer this question is not possible, so as to achieve its objectives, farmers must comply with a rather extensive range of activities including agronomic, agrochemical and biological activities.</p>
+													<p>The main objective of farmers is to get high yields of crops. The question arises: how can I provide? Unequivocally to answer this question is not possible, so as to achieve its objectives, farmers must comply with a rather extensive range of activities including agronomic, agrochemical and biological activities.</p>
 													<div class="img-container">
 														<img src="assets/images/constrfert.jpg" width="360" height="270">
 													</div>	<br>
@@ -66,7 +66,7 @@
 													<div class="img-container">
 														<img src="assets/images/constrfert3.jpg" width="360" height="270">
 													</div>	<br>
-													<p>The company "CENTRREZERVUARSERVIS" successfully solves the issues of construction and reconstruction of warehouses for liquid mineral fertilizers. A lot of enterprises of the agrarian complex of Ukraine has had the opportunity to be convinced of this. Works were carried out on the construction and expansion of warehouses for liquid mineral fertilizers at such enterprises that receive, store and dispense carbamide-ammonia mixture. These are: "Khmelnitsk-Mlyn" LLC, "Hanse Agri Ukraina" LLC, "Industrial Group "Agrarnik" LLC, "Agrokhimprodukt" LLC, "Agro-Market" LLC. Our specialists manufactured and installed hundreds carbamide-ammonia mixture tanks with a capacity from 700 m<sup>3</sup> to 300 m<sup>3</sup>. each. The works were performed in the complex - from the foundation and finishing painting the finished tank. It should be noted that all tanks were made directly in our own workshop.</p>
+													<p>The company "CENTRREZERVUARSERVIS" successfully solves the issues of construction and reconstruction of warehouses for liquid mineral fertilizers. A lot of enterprises of the agrarian complex of Ukraine has had the opportunity to be convinced of this. Works were carried out on the construction and expansion of warehouses for liquid mineral fertilizers at such enterprises that receive, store and dispense carbamide-ammonia mixture. These are: "Khmelnitsk-Mlyn" LLC, "Hanse Agri Ukraina" LLC, "Industrial Group "Agrarnik" LLC, "Agrokhimprodukt" LLC, "Agro-Market" LLC. Our specialists manufactured and installed hundreds carbamide-ammonia mixture tanks with a capacity from 700 m<sup>3</sup> to 5000 m<sup>3</sup>. each. The works were performed in the complex - from the foundation and finishing painting the finished tank. It should be noted that all tanks were made directly in our own workshop.</p>
 													<p>To date, in addition to the work already completed, negotiations are underway on the construction of new warehouses for liquid mineral fertilizers with a total volume of hundreds of thousands of cubic meters.</p>
 																		  
 
