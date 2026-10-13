@@ -130,7 +130,7 @@
 											<a href="passport_eng.php"><img src="assets/images/RVS01.gif" alt=""></a>
 										</div>
 									</div>
-									<a href="passport_eng.php"><h4>Tank certification</h4></a>
+									<a href="passport_eng.php"><h4>Preparation of a Technical Passport</h4></a>
 								</div>
 							</div>
 							
