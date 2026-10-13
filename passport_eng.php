@@ -36,7 +36,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12">
-								<h1>Certification of tanks</h1>
+								<h1>Preparation of a Technical Passport</h1>
 							
 							</div>
 						</div>
@@ -52,8 +52,23 @@
 										<div class="col-md-12">
 											<div class="blog-item">
 												<div class="text-content">
-													<h4>Certification of tanks</h4>	<br> 	
-													<p>Our company provides services for the production of technical certificates for tanks. In most cases, operated tanks are made according to standard designs with an indication of typical dimensions in the technical passport, but there are options such that the tank was purchased as second hand, or made their own, and technical passport the first option - is lost, the second - was, but somewhere gone, the third - forgot to do. In addition to technical passport sheet sizes are made of the tank inspection and the date of the subsequent tank inspection dates of cleaning away sludge and the date of the subsequent cleaning of the tank, calibration date, calibration date of grounding. State of tanks controls inspectors of Gosgorpromtehnadzora, they come and say wou, and why? and write a bunch of prescriptions. There are two ways to resolve this situation, the first one I think many people know what is being done in our country, and the second to fulfill all these requirements, and in this we will help you and will make a new passport to the tank. This is done by cleaning the tank with degassing and full tank inspection and according to these data produced a new technical passport for the tank.</p>
+													<h4>Preparation of a Technical Passport</h4>	<br> 	
+													<p>Our company provides services for зreparation of a еechnical зassport for storage tanks.
+														Tanks in use are typically manufactured according to standard designs with corresponding parameters. However, there are cases where a tank was purchased used or manufactured independently, and the original technical passport is lost, damaged, or never issued.
+													</p>
+
+													<p>In addition to the dimensional and technical specifications, the passport must include:</p>
+													<li>data on the tank's technical inspection and the deadlines for the next inspection;</li>
+													<li>data on the tank's equipment;</li>
+													<li>information on oil sludge cleaning and the subsequent maintenance schedule;</li>
+													<li>information on tank repairs.</li>
+													<br>
+													<div class="img-container">
+													<img src="assets/images/passport.jpg" width="360" height="330">
+													</div> <br>
+													<p>The condition of the tank farm is strictly monitored by state oversight agencies (State Labor Service). In the absence of the necessary documentation, inspectors issue orders and sanctions.
+													</p>
+													<p>To restore or initially prepare documentation, our specialists conduct a full technical diagnosis of the tank (after cleaning and degassing) and issue a new technical passport in accordance with current regulations and standards.</p>
 																															  
 
 												</div>
