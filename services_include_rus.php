@@ -146,6 +146,18 @@
 									<a href="design_of_ferilizer_storages_rus.php"><h4>Проектирование складов жидких минеральных удобрений и ГСМ</h4></a>
 								</div>
 							</div>
+							
+							<div class="col-md-4">
+								<div class="project-item">
+									<div class="thumb">
+										<div class="image">
+											<a href="pontoon.php"><img src="assets/images/pontoon_main.jpg" alt=""></a>
+										</div>
+									</div>
+									<a href="pontoon.php"><h4>Монтаж алюминиевых понтонов</h4></a>
+								</div>
+							</div>
+							
 						</div>
 					</div>
 				</section>
