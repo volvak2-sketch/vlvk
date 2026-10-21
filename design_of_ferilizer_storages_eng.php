@@ -52,25 +52,26 @@
 											<div class="blog-item">
 												<div class="text-content">
 													<h4>Storage design of liquid mineral fertilizers and fuel</h4>	<br> 	
-													<p>Any construction precedes the <strong>design</strong> phase. Today the company Centrrezervuarservis executes full range of work from <strong>design</strong> to commissioning.</p>
-													<p>
-													<p>Experienced specialists of our enterprise performed <strong>design of the expansion, renovation and construction of new storages of carbide ammonia mixture and fuel</strong>. <strong>Design</strong> is a presentation of the planned facility in graphical form. The main stages of the <strong>design</strong> include:</p>
-													<p>
-													</p>
+													<p>Any construction begins with design.</p>
+													<p>Today the company Centrrezervuarservis executes full range of work from design to commissioning.</p>
+													<p>Experienced specialists of our enterprise performed design of the expansion, renovation and construction of new storages of carbide ammonia mixture and fuel. Design is a presentation of the planned facility in graphical form. The main stages of the design include:</p>
+													
+													<div class="img-container"> 
+													<img src="assets/images/design_of_ferilizer_storages.jpg" width="360" height="258"> 
+													</div> <br>
+													
 													<ul>
 													<li>technical task;</li>
 													<li>design documentation;</span></li>
 													<li>construction and installation.</li>
 													</ul>
-													<p><br />
-													We carry out the entire project as well as its individual parts:<br />
-													</p>
+													<p>We carry out the entire project as well as its individual parts:</p>
 													<ul>
 														<li>draft;</li>
 														<li>working draft.</li>
 													</ul>
-													<p>
-													<p>Designs are developed on the tank capacity up to 1000 m<sup>3</sup>.</p>
+													
+													<p>Designs are developed on the tank capacity up to 5000 m<sup>3</sup>.</p>
 																															  
 
 												</div>
