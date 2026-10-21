@@ -63,10 +63,10 @@
 																	<a href="#"><img src="assets/images/contact_maryanna.jpg"></a>
 			        													
 																<div class="down-content">
-																	<span>Поронник Мар'яна, Менеджер по рекламі, Телефон:+380504539375</span>
+																	<span>Поронник Мар'яна, Менеджер з маркетингу, Телефон:+380504539375</span>
 																</div>						    
 															</div>
-															<li><span>Адрес:</span><p>Україна, 51600, Дніпропетровська обл., м. Верхньодніпровськ, вул. Яблунева, 55а</li>
+															<li><span>Адреса:</span><p>Україна, 51600, Дніпропетровська обл., м. Верхньодніпровськ, вул. Яблунева, 55а</li>
 															<li><span>Email:</span><a href="mailto:uatank@ukr.net">uatank@ukr.net</a></li>
 																										
 														</ul>
