@@ -69,6 +69,9 @@
 													<p>The condition of the tank farm is strictly monitored by state oversight agencies (State Labor Service). In the absence of the necessary documentation, inspectors issue orders and sanctions.
 													</p>
 													<p>To restore or initially prepare documentation, our specialists conduct a full technical diagnosis of the tank (after cleaning and degassing) and issue a new technical passport in accordance with current regulations and standards.</p>
+													<div class="img-container"> 
+													<img src="assets/images/passport2.jpg" width="360" height="293"> 
+													</div> <br> 
 																															  
 
 												</div>
