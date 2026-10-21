@@ -126,7 +126,7 @@
 								<div class="project-item">
 									<div class="thumb">
 										<div class="image">
-											<a href="passport.php"><img src="assets/images/RVS01.gif" alt=""></a>
+											<a href="passport.php"><img src="assets/images/passport_main.jpg" alt=""></a>
 										</div>
 									</div>
 									<a href="passport.php"><h4>Паспортизація резервуарів</h4></a>

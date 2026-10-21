@@ -127,7 +127,7 @@
 								<div class="project-item">
 									<div class="thumb">
 										<div class="image">
-											<a href="passport_eng.php"><img src="assets/images/RVS01.gif" alt=""></a>
+											<a href="passport_eng.php"><img src="assets/images/passport_main.jpg" alt=""></a>
 										</div>
 									</div>
 									<a href="passport_eng.php"><h4>Preparation of a Technical Passport</h4></a>
