@@ -22,12 +22,12 @@
 				<div class="content">
 					<nav class="responsive-menu">
 						<ul>
-									<li><a href="index.php">Головна</a></li>
-									<li><a href="about.php">О компанії</a></li>
-									<li><a href="objects.php">Наші об'єкти</a></li>
-									<li><a href="services.php">Пслуги</a></li>
-									<li><a href="info.php">Інфо</a> </li>
-									<li><a href="contacts.php">Контакти</a></li>
+									<li><a href="index.php">ГОЛОВНА</a></li>
+									<li><a href="about.php">ПРО КОМПАНІЮ</a></li>
+									<li><a href="objects.php">НАШІ ОБ'ЄКТИ</a></li>
+									<li><a href="services.php">ПОСЛУГИ</a></li>
+									<li><a href="info.php">ІНФО</a> </li>
+									<li><a href="contacts.php">КОНТАКТИ</a></li>
 						</ul>
 					</nav>
 					<div class="company-info">
